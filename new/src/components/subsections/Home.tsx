@@ -10,7 +10,7 @@ const Wrapper = styled.div`
 export const Home = () => {
   return (
     <Wrapper>
-      <img src="./img/slide1.png" alt="" />
+      <img src="./img/slide1.png" alt="" width="960" height="540" />
     </Wrapper>
   );
 };
