@@ -53,4 +53,4 @@ Error generating stack: `+o.message+`
   display: flex;
   justify-content: center;
   height: 100%;
-`,Pm=()=>he.jsx(_m,{children:he.jsx("img",{src:"./img/slide1.png",alt:""})}),Nm=()=>he.jsxs(he.Fragment,{children:[he.jsx(Cm,{}),he.jsx(Em,{children:he.jsx(Pm,{})})]});Vo.createRoot(document.getElementById("root")).render(he.jsx(kn.StrictMode,{children:he.jsx(Nm,{})}));
+`,Pm=()=>he.jsx(_m,{children:he.jsx("img",{src:"./img/slide1.png",alt:"",width:"960",height:"540"})}),Nm=()=>he.jsxs(he.Fragment,{children:[he.jsx(Cm,{}),he.jsx(Em,{children:he.jsx(Pm,{})})]});Vo.createRoot(document.getElementById("root")).render(he.jsx(kn.StrictMode,{children:he.jsx(Nm,{})}));
